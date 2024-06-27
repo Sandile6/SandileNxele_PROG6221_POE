@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\addingredientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\addingredientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\addingredientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\addingredientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|c:\\users\\sandi\\downloads\\sanelepoe\\sanelepoe\\sanelepoe\\addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA0E06BA-0480-458D-8583-EB5635B09EA3}|SanelePoe\\SanelePoe.csproj|solutionrelative:sanelepoe\\addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Step.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Step.cs",
+              "RelativeDocumentMoniker": "SanelePoe\\Step.cs",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Step.cs",
+              "RelativeToolTip": "SanelePoe\\Step.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:41:34.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Ingredient.cs",
+              "RelativeDocumentMoniker": "SanelePoe\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Ingredient.cs",
+              "RelativeToolTip": "SanelePoe\\Ingredient.cs",
+              "ViewState": "AQIAAAMAAAAAZmZmZmb2vwgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:41:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Recipe.cs",
+              "RelativeDocumentMoniker": "SanelePoe\\Recipe.cs",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\Recipe.cs",
+              "RelativeToolTip": "SanelePoe\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:41:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SanelePoe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\MainWindow.xaml",
+              "RelativeToolTip": "SanelePoe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:41:34.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddIngredientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddIngredientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SanelePoe\\AddIngredientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddIngredientWindow.xaml.cs",
+              "RelativeToolTip": "SanelePoe\\AddIngredientWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:41:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddIngredientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddIngredientWindow.xaml",
+              "RelativeDocumentMoniker": "SanelePoe\\AddIngredientWindow.xaml",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddIngredientWindow.xaml",
+              "RelativeToolTip": "SanelePoe\\AddIngredientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:41:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRecipeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddRecipeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SanelePoe\\AddRecipeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddRecipeWindow.xaml.cs",
+              "RelativeToolTip": "SanelePoe\\AddRecipeWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAADAMzMzM7MjwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:41:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRecipeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddRecipeWindow.xaml",
+              "RelativeDocumentMoniker": "SanelePoe\\AddRecipeWindow.xaml",
+              "ToolTip": "C:\\Users\\sandi\\Downloads\\SanelePoe\\SanelePoe\\SanelePoe\\AddRecipeWindow.xaml",
+              "RelativeToolTip": "SanelePoe\\AddRecipeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:41:34.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

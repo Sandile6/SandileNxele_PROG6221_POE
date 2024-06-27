@@ -1,0 +1,35 @@
+﻿<Window x:Class="SanelePoe.AddIngredientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SanelePoe"
+        mc:Ignorable="d"
+        Title="Add Ingredient" Height="300" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Ingredient Name:" Margin="0,0,0,10"/>
+            <TextBox x:Name="IngredientNameTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Quantity:" Margin="0,0,0,10"/>
+            <TextBox x:Name="QuantityTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Unit:" Margin="0,0,0,10"/>
+            <TextBox x:Name="UnitTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Calories:" Margin="0,0,0,10"/>
+            <TextBox x:Name="CaloriesTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Food Group:" Margin="0,0,0,10"/>
+            <ComboBox x:Name="FoodGroupComboBox" Width="200">
+                <ComboBoxItem Content="Vegetable"/>
+                <ComboBoxItem Content="Fruit"/>
+                <ComboBoxItem Content="Protein"/>
+                <ComboBoxItem Content="Dairy"/>
+                <ComboBoxItem Content="Grain"/>
+            </ComboBox>
+
+            <Button Content="Save Ingredient" Click="SaveIngredient_Click" Width="150" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
